@@ -3,3 +3,4 @@ Links:
 - [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
 - [Double Hashing](https://www.geeksforgeeks.org/double-hashing/)
 - [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
+- [c++ map](https://www.educba.com/c-plus-plus-map/)
