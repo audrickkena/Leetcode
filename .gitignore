@@ -1,2 +1,6 @@
 #ignore DS STORE
 .DS_Store
+#ignore executable codes
+*.exe
+#ignore vscode settings
+.vscode
