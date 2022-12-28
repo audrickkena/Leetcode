@@ -10,8 +10,8 @@ Each problem directory contains:
 
 ## Current Problems Done:
 - [Palindrome Number](problems/PalindromeNumber/problem.md)
-- First Missing Positive
-- Two Sum
+- [First Missing Positive](problems/FirstMissingPositive/problem.md)
+- [Two Sum](problems/TwoSum/problem.md)
 
 ## Problems in progress:
-- Add Two Numbers
+- [Add Two Numbers](problems/AddTwoNumbers/problem.md)
