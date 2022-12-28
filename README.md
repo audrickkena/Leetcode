@@ -7,3 +7,11 @@ Each problem directory contains:
     - outline/summary of solutions considered (solutions.md)
 - Problem statement (problem.md)
 - Solutions directory (contains the solution submitted in different programming languages)
+
+## Current Problems Done:
+- Palindrome Number
+- First Missing Positive
+- Two Sum
+
+## Problems in progress:
+- Add Two Numbers
