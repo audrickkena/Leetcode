@@ -9,7 +9,7 @@ Each problem directory contains:
 - Solutions directory (contains the solution submitted in different programming languages)
 
 ## Current Problems Done:
-- Palindrome Number
+- [Palindrome Number](problems/PalindromeNumber/problem.md)
 - First Missing Positive
 - Two Sum
 
